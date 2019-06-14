@@ -1,3 +1,4 @@
 a a
 foo
 bar
+for bar
