@@ -10,4 +10,4 @@ on work2
 
 on ba
 
-on work1 work2
+on work1
